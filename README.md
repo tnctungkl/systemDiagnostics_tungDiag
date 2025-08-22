@@ -2,7 +2,7 @@
 
 Tungdiag is a **Python-based desktop application** that collects and displays detailed hardware and system information through a modern graphical interface.  
 It also logs diagnostic data into a **PostgreSQL database** and allows exporting reports in multiple formats.  
-For end-users, Tungdiag can also be packaged into a **standalone Windows executable (.exe)** for quick installation and usage without requiring Python.
+For end-users, Tungdiag can also be packaged into a **standalone Windows executable (.exe)** for quick installation and usage without requiring Python. (Check **Releases** section)
 
 ---
 
