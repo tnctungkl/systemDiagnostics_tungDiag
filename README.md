@@ -36,5 +36,5 @@ For end-users, Tungdiag can also be packaged into a **standalone Windows executa
 
 ---
 
-## İmportant Reminder:
-- 💥 The ** .idea/ ** folder has been deleted from the repository because it contains IDE settings.
+## 💥 İmportant Reminder:
+- The ** .idea/ ** folder has been deleted from the repository because it contains IDE settings.
