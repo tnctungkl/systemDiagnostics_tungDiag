@@ -31,6 +31,10 @@ For end-users, Tungdiag can also be packaged into a **standalone Windows executa
 - **PostgreSQL** (for database logging)
 - Dependencies listed in `requirements.txt`
 
-Install dependencies:
-```bash
-pip install -r requirements.txt
+### Install dependencies:
+- pip install -r requirements.txt
+
+---
+
+## İmportant Reminder:
+- 💥 The ** .idea/ ** folder has been deleted from the repository because it contains IDE settings.
