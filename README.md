@@ -38,3 +38,9 @@ For end-users, Tungdiag can also be packaged into a **standalone Windows executa
 
 ## 💥 İmportant Reminder:
 - Don't forget to change the database information in the code!
+
+---
+
+## 👑 Author:
+        Tunç KUL
+    Computer Engineer
