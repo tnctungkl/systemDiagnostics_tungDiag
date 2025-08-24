@@ -26,13 +26,13 @@ For end-users, Tungdiag can also be packaged into a **standalone Windows executa
 ## 📦 Installation Tips:
 
 ### Requirements:
-- **Python 3.8+**
+- **Python 3.12+**
 - **IDE**
 - **PostgreSQL** (for database logging)
 - Dependencies listed in `requirements.txt`
 
 ### Install dependencies:
-- pip install -r requirements.txt
+                pip install -r requirements.txt
 
 ---
 
