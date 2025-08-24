@@ -32,7 +32,7 @@ For end-users, Tungdiag can also be packaged into a **standalone Windows executa
 - Dependencies listed in `requirements.txt`
 
 ### Install dependencies:
-                pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ---
 
