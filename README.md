@@ -55,7 +55,7 @@ For end-users, Tungdiag can also be packaged into a **standalone Windows executa
 
 ---
 
-## 💥 İmportant Reminder:
+## 💥 Important Reminder:
 
 - Don't forget to change the database information in the code!
 
