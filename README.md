@@ -7,6 +7,7 @@ For end-users, Tungdiag can also be packaged into a **standalone Windows executa
 ---
 
 ## ✨ Essential Key Features:
+
 - 📊 **System Diagnostics**;
   - CPU, GPU, RAM, Motherboard, Audio Devices, Network, and Operating System details
 - 🗄️ **Database Logging**;
@@ -23,12 +24,31 @@ For end-users, Tungdiag can also be packaged into a **standalone Windows executa
 
 ---
 
+## 📁 Project Structure:
+
+```
+├── build/
+├── dist/
+├── tungDiag.py
+├── tundiag_sql.sql
+├── requirements.txt
+├── tungDiag.spec
+└── .gitignore
+```
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
+![Tkinter](https://img.shields.io/badge/UI-Tkinter-brightgreen?logo=windows)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+---
+
 ## 📦 Installation Tips:
 
 ### Requirements:
-- **Python 3.12+**
+- **Python 3.10+**
 - **IDE**
-- **PostgreSQL** (for database logging)
+- **PostgreSQL 17+** (for database logging)
 - Dependencies listed in `requirements.txt`
 
 ### Install dependencies:
@@ -37,10 +57,12 @@ For end-users, Tungdiag can also be packaged into a **standalone Windows executa
 ---
 
 ## 💥 İmportant Reminder:
+
 - Don't forget to change the database information in the code!
 
 ---
 
 ## 👑 Author:
+
         Tunç KUL
     Computer Engineer
