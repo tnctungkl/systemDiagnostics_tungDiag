@@ -47,7 +47,6 @@ For end-users, Tungdiag can also be packaged into a **standalone Windows executa
 
 ### Requirements:
 - **Python 3.10+**
-- **IDE**
 - **PostgreSQL 17+** (for database logging)
 - Dependencies listed in `requirements.txt`
 
